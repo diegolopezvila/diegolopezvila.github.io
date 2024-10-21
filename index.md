@@ -1,7 +1,7 @@
 ---
 
 title: Guerra civil Esañola
-title1: Influencer de alto estado promociona su nuevo oficio degustación de helados
+title1: 
 layout: home
 ---
 La Guerra Civil se inició a partir de una serie de tensiones sociales y políticas que, más tarde, generaron en el país una grave crisis económica. Se desencadenó tras el golpe de Estado del 17 y 18 de julio de 1936, llevado a cabo por una parte del ejército contra el gobierno de la Segunda República Española.
